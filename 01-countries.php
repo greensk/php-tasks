@@ -2,7 +2,6 @@
 	$countries = [
 		[
 			'name' => 'Россия',
-			'flag' => 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg',
 			'capital' => 'Москва',
 			'population' => 146000000,
 			'area' => 17000000,
@@ -42,7 +41,7 @@
 			'topCities' => [
 				[
 					'name' => 'Торонто',
-					'photo' => 'https://upload.wikimedia.org/wikipedia/ru/2/2a/TorontoMCC.jpg'
+					'photo' => 'https://upload.wikimedia.org/wikipedia/commons/2/2a/TorontoMCC.jpg'
 				],
 				[
 					'name' => 'Монреаль',
@@ -54,7 +53,6 @@
 			'name' => 'Китай',
 			'description' => 'государство в Восточной Азии. Крупнейшее по численности населения государство мира (свыше 1,36 млрд, большинство населения — этнические китайцы, самоназвание — хань); занимает третье место в мире по территории, уступая России и Канаде. Является великой державой — кандидатом-сверхдержавой, экономической сверхдержавой, постоянный член Совета безопасности ООН. Одна из ведущих космических держав мира, обладает ядерным оружием и крупнейшей в мире армией по численности военнослужащих.',
 			'region' => ['Азия'],
-			'flag' => 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg?uselang=ru',
 			'capital' => 'Пекин',
 			'population' => 1373000000,
 			'area' => 9958000

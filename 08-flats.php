@@ -31,7 +31,6 @@
 				'areaLive' => 18,
 				'areaKitchen' => 0,
 				'photos' => [
-					'http://cdn.n1.ru/cache/realty/photo/9e43a8eeb9699ed50e1ea3a065a190df_1200_800.jpg'
 				]
 			]
 		],
